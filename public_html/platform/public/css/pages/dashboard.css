@@ -1,0 +1,15 @@
+/* content */
+.aside-enabled.aside-minimize .wrapper{
+    padding-left: unset;
+}
+.aside-enabled .wrapper {
+    padding-left: 425px;
+}
+/* connect wallet btn */
+#connect_wallet .name{
+    table-layout: fixed;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 120px;
+}

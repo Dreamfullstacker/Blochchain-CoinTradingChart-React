@@ -1,0 +1,19 @@
+/* content */
+.aside-enabled.aside-minimize .wrapper{
+    padding-left: unset;
+}
+.aside-enabled .wrapper {
+    padding-left: 425px;
+}
+
+/* transaction datatable */
+#kt_datatable {
+    width: 100%;
+}
+.datatable-column {
+    table-layout: fixed;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100px;
+}
